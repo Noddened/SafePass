@@ -1,0 +1,3 @@
+D:/sfps01/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/CMakeFiles/sfps01.dir
+D:/sfps01/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+D:/sfps01/build/Desktop_Qt_6_8_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
